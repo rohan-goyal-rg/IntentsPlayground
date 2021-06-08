@@ -1,0 +1,2 @@
+rootProject.name = "IntentsPlayground"
+include ':app'

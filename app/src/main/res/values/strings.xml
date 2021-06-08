@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Intents Playground</string>
+    <string name="my_counter">My Counter</string>
+    <string name="decBtn">-</string>
+    <string name="qty">0</string>
+    <string name="incBtn">+</string>
+    <string name="btn_send_back">SEND BACK</string>
+    <string name="btn_main_activity">OPEN MAIN ACTIVITY</string>
+    <string name="intent_name">Explicit Intent</string>
+</resources>
